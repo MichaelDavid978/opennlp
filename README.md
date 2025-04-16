@@ -77,8 +77,7 @@ Currently, the library has different packages:
 * `opennlp-sandbox`: Other projects in progress are found in the [sandbox](https://github.com/apache/opennlp-sandbox)
 
 ## Getting Started
-
-You can import the core toolkit directly from Maven, SBT, or Gradle:
+You can import the core toolkit using Maven, SBT, or Gradle as shown below:
 
 #### Maven
 If you would like to get involved, please follow the instructions here.
